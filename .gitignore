@@ -1,0 +1,10 @@
+# Local request state and build/test artifacts.
+cookies*.txt
+coverage.out
+coverage.html
+/bin/
+/shortener
+*.test
+*.prof
+.env
+.DS_Store
